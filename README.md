@@ -4,7 +4,14 @@ un travaux de groupe que je doit faire avec un camarade de classe.
 
 ## consigne:
 
-on nous demande de faire un cours pour expliquer le language de programmation python à la classe
+on nous demande de faire un cours pour expliquer le language de programmation python à la classe de 2nd
+
+- __note:__
+    - le cours dure 1h30 cependant il y a une récréation pendant le cours de 15min (soit nous avons 1h15), en comptant le temps d'attente pour que les élèves ne bavardent pas, le temps d'entrée en cours, le setup, .... nous avons ~1h05
+
+    - il faut prendre en compte que ce sont des élèves qui n'ont jamais touché au python pour certains donc nous ne pouvons pas rentrer dans les détails
+
+
 
 ## outils: 
 
@@ -18,8 +25,6 @@ npm run build
 ```
 
 et utiliser l'`index.html` dans le fichier dist/
-
-cependant pour ne pas être obligé d'installer npm et tout les modules nous inclurons le fichier js final (je ne suis pas très expérimenté avec les languages web comme le js désolé si je fait des gaffes).
 
 ## open source:
 
