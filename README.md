@@ -10,9 +10,16 @@ on nous demande de faire un cours pour expliquer le language de programmation py
 
 nous utiliserons [revealjs](https://revealjs.com/) comme outil pour faire la présentation
 
-__note__: revealjs a besoins de npm pour pouvoir être utilisé
+si vous voulez build le projet alors vous pouvez juste faire ceci:
 
-nous utilisons le full setup de revealjs, vous êtes alors obligés d'utiliser gnu+linux pour l'installation par le fichier bash : `install.sh`
+```bash
+npm install
+npm run build
+```
+
+et utiliser l'`index.html` dans le fichier dist/
+
+cependant pour ne pas être obligé d'installer npm et tout les modules nous inclurons le fichier js final (je ne suis pas très expérimenté avec les languages web comme le js désolé si je fait des gaffes).
 
 ## open source:
 
