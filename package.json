@@ -1,0 +1,22 @@
+{
+    "name": "cours-python",
+    "version": "1.0.0",
+    "description": "cours pour le lycée",
+    "main": "index.js",
+    "license": "BSD-3-Clause",
+    "dependencies": {
+        "html-webpack-plugin": "^5.3.1",
+        "reveal.js": "^4.1.0"
+    },
+    "devDependencies": {
+        "html-loader": "^2.1.2",
+        "webpack": "^5.26.3",
+        "webpack-cli": "^4.5.0",
+        "webpack-dev-server": "^3.11.0"
+    },
+    "scripts": {
+        "server": "webpack serve ",
+        "build": "webpack build"
+    },
+    "author": ""
+}
