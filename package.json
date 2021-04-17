@@ -19,10 +19,10 @@
         "server": "webpack serve ",
         "build": "webpack build",
         "predeploy": "npm run build",
-        "deploy": "gh-pages -d build"
+        "deploy": "gh-pages -d dist"
     },
 
 
-    "homepage": "http://supercyp.me/travail-cours-python/dist",
+    "homepage": "http://supercyp.me/travail-cours-python/",
     "author": ""
 }
