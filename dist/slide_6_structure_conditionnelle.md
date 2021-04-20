@@ -7,8 +7,20 @@ if([CONDITION]):
 ```
 <!-- .element: class="fragment" data-fragment-index="1" -->
 
+<div>
+
+## ne fonctionnera pas:
+```python
+if([CONDITION]):
+[CODE]
+```
+
+</div>
+<!-- .element: class="fragment" data-fragment-index="2" -->
+
 Note: 
 après avoir vue les conditions, nous allons rendre tout ceci utile (*comme je l'espère un jour mon humour*) avec les 'si', ce qui permettera d'exécuter du code seulement quand une condition est vrai.
+Il faut absolument l'espace entre le bord et le code sinon il ne serra pas dans le bloc de la structure conditionnelle 
 
 
 ## Si 
