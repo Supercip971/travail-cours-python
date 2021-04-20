@@ -7,40 +7,15 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="68mm"
-   height="63mm"
-   viewBox="0 0 68 63"
+   width="63.25692mm"
+   height="32.919155mm"
+   viewBox="0 0 63.25692 32.919155"
    version="1.1"
    id="svg8"
-   sodipodi:docname="variable_0.svg"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
+   sodipodi:docname="variable_0.svg">
   <defs
-     id="defs2">
-    <rect
-       x="5.5586767"
-       y="18.508667"
-       width="54.928608"
-       height="37.807896"
-       id="rect1468" />
-    <rect
-       x="5.5586767"
-       y="18.508667"
-       width="54.928608"
-       height="37.807896"
-       id="rect1456" />
-    <rect
-       x="5.5586767"
-       y="18.508667"
-       width="54.928608"
-       height="37.807896"
-       id="rect1468-5" />
-    <rect
-       x="5.5586767"
-       y="18.508667"
-       width="54.928608"
-       height="37.807896"
-       id="rect1486" />
-  </defs>
+     id="defs2" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -48,9 +23,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="122.28976"
-     inkscape:cy="113.25286"
+     inkscape:zoom="1.979899"
+     inkscape:cx="176.04458"
+     inkscape:cy="140.05394"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -75,51 +50,36 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-7.611891,-20.743229)">
     <rect
-       style="fill:#f9f9f9;stroke-width:0.407565"
-       id="rect1402"
-       width="54.976791"
-       height="12.241483"
-       x="5.5586767"
-       y="6.2777958" />
+       style="fill:#99ff55;stroke-width:0.264583"
+       id="rect837"
+       width="20.615059"
+       height="20.615059"
+       x="28.449009"
+       y="20.743229" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.3775px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.259438"
-       x="9.1334381"
-       y="15.133986"
-       id="text1406"
-       transform="scale(0.99956649,1.0004337)"><tspan
+       style="font-size:10.5833px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583;fill:#000000;"
+       x="38.834454"
+       y="34.919838"
+       id="text841"><tspan
          sodipodi:role="line"
-         x="9.1334381"
-         y="15.133986"
-         style="stroke-width:0.259438"
-         id="tspan1452">variable1</tspan></text>
-    <rect
-       style="fill:#d4aa00;stroke-width:0.265484"
-       id="rect1448"
-       width="55.255253"
-       height="37.840694"
-       x="5.5586767"
-       y="18.519279" />
+         id="tspan839"
+         x="38.834454"
+         y="34.919838"
+         style="stroke-width:0.264583;fill:#000000;">5</tspan></text>
     <text
        xml:space="preserve"
-       id="text1454"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1456);fill:#000000;fill-opacity:1;stroke:none;"
-       transform="matrix(1,0,0,1.0008675,0,-0.00765213)" />
-    <text
-       xml:space="preserve"
-       id="text1466"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect1468);fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(2.9571278,0,0,2.9596931,-3.3102508,-73.160261)"
-       x="-11.957889"
-       y="0"><tspan
-         x="5.5585938"
-         y="27.871552"><tspan
-           style="text-align:start;text-anchor:start;fill:#ffffff">
-</tspan></tspan><tspan
-         x="5.5585938"
-         y="41.100676"><tspan
-           style="text-align:start;text-anchor:start;fill:#ffffff">30</tspan></tspan></text>
+       style="font-size:10.5833px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583;fill:#ffffff;"
+       x="39.041397"
+       y="51.16642"
+       id="text845"><tspan
+         sodipodi:role="line"
+         id="tspan843"
+         x="39.041397"
+         y="51.16642"
+         style="stroke-width:0.264583;fill:#ffffff;">ma_variable</tspan></text>
   </g>
 </svg>
