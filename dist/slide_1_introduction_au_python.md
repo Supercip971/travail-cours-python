@@ -22,6 +22,7 @@ message:
 
 ```
 ### nasm (64bit)
+pas du tout lisible
 </div><!-- .element: class="fragment" data-fragment-index="2" -->
 <div data-id="box_cpp" style="width: 33%;">
 
@@ -33,6 +34,7 @@ int main(){
 }
 ```
 ### c++
+un peut plus lisible mais compliqué
 </div><!-- .element: class="fragment" data-fragment-index="3" -->
 
 <div data-id="box_python" style="width: 22%;">
@@ -41,6 +43,7 @@ int main(){
 print("bonjour !")
 ```
 ### python
+lisible
 </div><!-- .element: class="fragment" data-fragment-index="4" -->
 
 </div>
@@ -53,6 +56,6 @@ Par exemple voici comment écrire bonjour en assembly, ici en c++ et voila l'éq
 ## qui utilise le python ?
 
 Note:
-Beaucoup d'entreprises utilisent le python, nous avons la nasa, google, wikipedia, Yahoo, le Cern, et beaucoup d'autres personnes en effet 16% des projets github sont codés en python, ce qui fait que ce language est le 2e language le plus utilisé sur github. (source: https://madnight.github.io/githut/#/pull_requests/2021/1)
-et aussi c'est le language utilisé générallement pour commencer la programmation.
+Beaucoup d'entreprises utilisent le python, nous avons la nasa, google, wikipedia, Yahoo, le Cern, et beaucoup d'autres personnes, en effet 16% des projets github sont codés en python, ce qui fait que ce language est le 2e language le plus utilisé sur github. (source: https://madnight.github.io/githut/#/pull_requests/2021/1)
+et aussi c'est le language utilisé générallement pour commencer la programmation. Il est aussi utilisé dans quelques domaines comme l'intelligence artificielle 
 Après cette introduction rapide, nous allons vous montrer un simple exemple du language.
