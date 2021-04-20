@@ -20,7 +20,6 @@ est ce que 0 est plus petit que 9 ? <!-- .element: class="fragment" data-fragmen
 
 oui (true)<!-- .element: class="fragment" data-fragment-index="4" -->
 
-
 Note: 
 alors maintenant nous allons voir les conditions en pythons, nous allons voir que les conditions sont très importantes en programmation
 Les conditions sont comme si nous posions une question à l'ordinateur, par exemple est ce que 9 est plus grand que 0, alors il nous répond part un oui ou non. Cependant le oui en python équivaux à true (ou vrai) et le non à false (ou faux) 
@@ -108,6 +107,7 @@ l'opérateur plus grand que:
 Note:
 Nous trouvons aussi les opérateurs plus petit/plus grand que ou égal, ici c'est comme en mathématique et comme les opérateur plus grand que/ plus petit que sauf que l'on peut avoir les deux valeurs qui sont égales, par exemple 10 est plus petit ou égal à 10 et 0 est plus grand ou égal à 0 (qui donnent tout les deux true)
 
+
 ## vérifier deux conditions
 
 <div>
@@ -150,6 +150,7 @@ Note:
 dans certains cas nous voulons avoir 2 conditions fusionnées par exemple ici nous voulons vérifier si 1 est plus grand que 0 et 1 est plus petit que 10 du coup nous avons est ce que 0 < 1 et est ce que 1 est plus petit que 10. Nous utilisons alors l'opérateur ET soit AND en python qui permet du coup ici nous avons 2 conditions
 si 0 est plus petit que 1 ET si 1 est plus petit que 10, donc si les deux sont vrai alors la condition est vrai (true)
 
+
 ## vérifier l'une des deux condition
 
 <div>
@@ -189,16 +190,18 @@ est vrai car (vrai ou faux = vrai)
 Note: 
 comme l'opérateur ET nous pouvons avoir l'opérateur ou qui lui à la place d'être vrai seulement si les deux sous conditions sont vrai alors que le OU permet d'être vrai seulement si l'une des deux est vrai. Soit le OR en python
 
+
 ## stocker le résultat d'une condition dans une variable
 
 ```python
 hauteur_valide = (hauteur < 100)
 ``` 
 <!-- .element: class="fragment" data-fragment-index="1" -->
-`hauteur_valide` est soit true (vrai) ou false (faux) <!-- .element: class="fragment" data-fragment-index="2" -->
+<div> `hauteur_valide` est soit true (vrai) ou false (faux) </div> <!-- .element: class="fragment" data-fragment-index="2" -->
 
 Note: 
 nous pouvons mettre le résultat d'une condition dans une variable, ici la variable hauteur_valide est soit vrai soit faux (true ou false)
+
 
 ## exemple vérifier la limite de température
 

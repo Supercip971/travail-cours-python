@@ -31,6 +31,7 @@ a = v + 1
 Note: 
 Ici nous avons v qui stocke un 5 puis nous créons la variable a qui est égal à v + 1, ici vue que v contient 5 alors nous obtenons 5 + 1 soit 6, a est donc égal à 6 
 
+
 ## afficher une valeurs d'une variable
 
 ```python [1|2|0]
