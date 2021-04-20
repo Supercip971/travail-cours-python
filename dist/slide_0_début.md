@@ -31,5 +31,13 @@ pour ceux qui veulent le cours est disponible en open source sur mon github.
 - questions réponse <!-- .element: class="fragment" data-fragment-index="8" -->
 - évaluation <!-- .element: class="fragment" data-fragment-index="9" -->
 
-
-Note: 
+Note:
+pour commencer nous ferrons une introduction rapide au python, 
+ensuite nous enchainerons avec un exemple rapide en python 
+nous ferrons une introduction rapide et simple au math dans python 
+nous continuerons avec les variables
+puis les conditions
+qui nous permettrons de parler des structures conditionnelles 
+nous montreront un exemple de code simple 
+puis nous ferrons des questions réponses si vous avez des questions
+pour finir nous conclurons par une évaluation simple.
