@@ -32,18 +32,18 @@ j'ai voulu rendre le travail open source, sous la license BSD, de même le code 
 
 le travail final aura subit quelques changements comme l'ajout des prénoms/noms et la classe. 
 
+NOTE FINALE: l'élève n'a pas aidé, finalement le travail était solo :^(
 
 ## structure (non définitive)
 Plan:
-> note: pour garder l'anonyma, chaque nom des participans (moi et mon camarade) ont été remplacé par A et B
 - cours PYTHON
-    - Introduction au langage PYTHON (A) 
-    - exemple simple [hello world] (B)
-    - l’utilité mathématique de python: multiplication, addition,   soustraction... (A)
-    - variables(B) 
-    - les conditions [exemple (1>0= true)] (A)
-    - les structures conditionnelles [ if, else, else if] (B)
-    - exemple de code [[exemple] une simulation de lancer de dé ou la couleur d’une gourde par rapport à sa température (non définitif)] (A) 
-    - Conclusion(B) 
+    - Introduction au langage PYTHON  
+    - exemple simple [hello world] 
+    - l’utilité mathématique de python: multiplication, addition,   soustraction... 
+    - variables
+    - les conditions [exemple (1>0= true)] 
+    - les structures conditionnelles [ if, else, else if]
+    - exemple de code [[exemple] une simulation de lancer de dé ou la couleur d’une gourde par rapport à sa température (non définitif)]
+    - Conclusion
 - Questions( les questions seront faites périodiquement entre chaque partie pour éviter que la classe ne perde le fil du cours)
 - Évaluation

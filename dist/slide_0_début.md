@@ -1,7 +1,7 @@
 ## Cours sur le
 <img src="https://www.python.org/static/community_logos/python-logo-generic.svg">
 
-__nom élève 1__ - __nom élève 2__ - 2nd 2
+__Cyprien B__ - 2nd 2
 
 Note:
 bonjour aujourd'hui je vais vous présenter l'un des nombreux languages de programmation, le python.
@@ -12,7 +12,7 @@ Alors avant de commencer j'aimerais préciser certaines chose:
 - vous pouvez prendre des notes
 
 
-cours disponible en open source sur:
+cours disponible en open source sur: 
 [github.com/Supercip971/travail-cours-python](https://github.com/Supercip971/travail-cours-python)
 
 Note:
