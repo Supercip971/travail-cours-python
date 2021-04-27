@@ -1,8 +1,6 @@
 ## Cours sur le
 <img src="https://www.python.org/static/community_logos/python-logo-generic.svg">
 
-__Cyprien B__ - 2nd 2
-
 Note:
 bonjour aujourd'hui je vais vous présenter l'un des nombreux languages de programmation, le python.
 
